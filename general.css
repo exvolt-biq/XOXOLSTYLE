@@ -1,0 +1,79 @@
+body{
+  margin: 0px;
+}
+.ggg1{
+  background-color: green;
+  width: 100%;
+  height: 200px;
+  /* padding-left: 20%; */
+  /* padding-right: 20%; */
+}
+.ggg2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.gg{
+  justify-content: space-between;
+  /* 0123456789abcdef */ /*первый красный второй зеленый третий синий f это самый яркий 0 это самый темный*/
+  background-color: #f0f;
+  margin-left: 20%;
+  margin-right: 20%;
+  /* justify-content: center; */
+  width: 60%;
+  height: 200px;
+  display: flex;
+}
+.gg2{
+  margin-top: 70px;
+  margin-bottom: 20px;
+  flex: 0.5;
+  width: 100px;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* margin: auto; */
+  /* margin: 5px 10px 15px 20px; /* по чисовой стрелки начиная сверху */ */
+  height: 60px;
+  background-color: red;
+}
+.gg3{
+  width: 190px;
+  margin: 5px 5px 40px 5px;
+  /* margin-bottom:20px; */
+  height: 20px;
+  background-color: pink;
+}
+.gg4{
+  width: 190px;
+  margin: 5px;
+  height: 20px;
+  background-color: yellow;
+  margin-bottom: 40px;
+}
+/* .gg1.gg2.gg3{ */
+/* } */
+.aa1{
+  width: 100%;
+  height: 30px;
+  background-color: #3F3F3F;
+}
+.slo1{
+  min-height: 100px;
+  background-color: #f0f40f;
+}
+.slo2{
+  display: flex;
+  min-height: 100px;
+  margin: 10px 80px 0px 80px;
+  background-color: #af2;
+}
+.side-bar{
+  width: 30%;
+  height: 100px;
+  background-color: #dba321;
+}
+.content{
+  width: 70%;
+  height: 100px;
+  background-color: #1f21f3;
+}
