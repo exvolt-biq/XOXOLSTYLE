@@ -77,3 +77,14 @@ body{
   height: 100px;
   background-color: #1f21f3;
 }
+.menublock{
+  width: 94%;
+  margin-bottom: 15px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 3px solid #660000;
+  padding: 10px;
+  color: #bb004f;
+  font-family: verdana,arial,helvetica,sans-serif;
+  font-size: 12.8px;
+}
