@@ -89,5 +89,23 @@ body{
 }
 
 .menublock:hover {
-text-decoration: underline;
-  }
+  text-decoration: underline;
+}
+.message-bar{
+  background-color: #4E00BF;
+  color: #fff;
+  font-family: verdana,arial,helvetica,sans-serif;
+  font-size: 12px;
+  border: 2px solid #fff;
+  padding: 8px;
+  box-shadow: 0 0 0 3px #4E00BF;
+  display: flex;
+  align-items: center;
+}
+.rd{
+  height: 48px;
+  width: 48px;
+}
+a{
+  color: inherit;
+}
