@@ -72,9 +72,9 @@ body{
   background-color: #dba321;
 }
 .content{
+  padding: 0px 15px 0px 15px;
   width: 70%;
-  height: 100px;
-  background-color: #1f21f3;
+  background-color: #FFDE81;
 }
 .menublock{
   width: 94%;
@@ -108,4 +108,28 @@ body{
 }
 a{
   color: inherit;
+}
+.font-size{
+  text-align: center;
+  color: #600;
+  line-height: 1.075;
+  font-size: 0.975em;
+  line-height: 1.6;
+}
+.font-size2{
+
+}
+.font-size3{
+  font-size: 250%;
+}
+.hhru{
+  width: 100%;
+  margin: 16px 0;
+  height: 3px;
+  background-color: #707070;
+}
+.banner-block{
+  font-size: 10pt;
+    text-transform: uppercase;
+    color: #333;
 }
